@@ -1,4 +1,4 @@
-### Alias: tpb5fe
+### Alias: Trent Ballard (tpb5fe)
 
 
 - Cookie Monster
